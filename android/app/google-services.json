@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350777898247",
+    "project_id": "qratt-5f89a",
+    "storage_bucket": "qratt-5f89a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350777898247:android:3052c29336757b6747c1a2",
+        "android_client_info": {
+          "package_name": "com.example.qr_att"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqXTVhHEAfbUEt0O9boaKJ-WDX2pyU0Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

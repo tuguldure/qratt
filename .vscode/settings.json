@@ -1,0 +1,9 @@
+{
+
+    "cmake.sourceDirectory": "C:/Users/kafka/Documents/QR_attendanceapp/QR_attendance/linux",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "cmake.configureOnOpen": false
+
+    "cmake.sourceDirectory": "C:/Users/kafka/Documents/QR_attendanceapp/QR_attendance/build/windows/x64/extracted/firebase_cpp_sdk_windows"
+
+}
